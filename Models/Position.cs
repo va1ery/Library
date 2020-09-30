@@ -1,5 +1,6 @@
 using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 namespace Library.Models
 {
