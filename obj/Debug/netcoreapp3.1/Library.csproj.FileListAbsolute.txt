@@ -51,3 +51,4 @@ C:\Users\val\Documents\VSCode\Library\obj\Debug\netcoreapp3.1\Library.csproj.Cop
 C:\Users\val\Documents\VSCode\Library\obj\Debug\netcoreapp3.1\Library.dll
 C:\Users\val\Documents\VSCode\Library\obj\Debug\netcoreapp3.1\Library.pdb
 C:\Users\val\Documents\VSCode\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+C:\Users\val\Documents\VSCode\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

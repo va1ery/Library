@@ -11,7 +11,8 @@ namespace Library.Models
        public string FirstName {get;set;}
        public DateTime BirthDate {get;set;}
        public int PositionID {get;set;}
+       public Position Positions { get; set; }
    // ...       
-       public ICollection<Position> Positions  {get;set;}
+   //    public ICollection<Position> Positions  {get;set;}
       }
 }
