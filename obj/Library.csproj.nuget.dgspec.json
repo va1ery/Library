@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\val\\Documents\\VSCode\\Library\\Library.csproj": {}
+    "C:\\Users\\val\\Documents\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\val\\Documents\\VSCode\\Library\\Library.csproj": {
+    "C:\\Users\\val\\Documents\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\val\\Documents\\VSCode\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\val\\Documents\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\val\\Documents\\VSCode\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\val\\Documents\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\val\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\val\\Documents\\VSCode\\Library\\obj\\",
+        "outputPath": "C:\\Users\\val\\Documents\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
